@@ -4,8 +4,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Click here!]()
-- Live Site URL: [Click here!]()
+- Solution URL: [Click here!](https://github.com/logic23dev/stats-preview-card-component)
+- Live Site URL: [Click here!](https://logic23dev.github.io/stats-preview-card-component/)
 
 ### Built with
 
